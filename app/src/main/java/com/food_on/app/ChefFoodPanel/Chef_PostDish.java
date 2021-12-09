@@ -270,5 +270,3 @@ public class Chef_PostDish extends AppCompatActivity {
 
     }
 }
-
-
